@@ -1,0 +1,21 @@
+#logonav{
+	width:100%;
+	float:left;
+	background-color:black;
+
+}
+#nav{
+	float:right;
+	margin-right:5%;
+}
+.navbar-default{
+	color:white;
+	background-color:black;
+	padding-top:8px;
+}
+.nav.navbar-nav.navbar-default li>a{
+	color:silver;
+}
+.nav.navbar-nav.navbar-default li>a:hover{
+	color:black;
+}
