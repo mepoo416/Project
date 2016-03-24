@@ -2,7 +2,6 @@
 	width:100%;
 	float:left;
 	background-color:black;
-
 }
 #nav{
 	float:right;
@@ -15,6 +14,7 @@
 }
 .nav.navbar-nav.navbar-default li>a{
 	color:silver;
+	font-weight: bold;
 }
 .nav.navbar-nav.navbar-default li>a:hover{
 	color:black;
